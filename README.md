@@ -76,8 +76,8 @@ This will retrieve all Git commits within the specified date range, format them,
 
 ## Project Structure
 
-```
-my-project/
+```bash
+CommitsTimeEntries/
 │
 ├── src/
 │   └── push_commits.ts      # The main script for processing and pushing commits
@@ -124,4 +124,7 @@ This project is licensed under the MIT License.
 ## Author
 
 <img src="https://github.com/kagabof.png?size=150" alt="Kagabo Faustin" style="border-radius: 50%; width: 150px;"/>
-[**Kagabo Faustin** (kagabof)](https://github.com/kagabof)
+
+[Kagabo Faustin](https://github.com/kagabof)
+
+[kagabof](https://github.com/kagabof)
