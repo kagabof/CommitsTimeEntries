@@ -1,7 +1,7 @@
 {
   "name": "CommitsTimeEntries",
   "version": "1.0.0",
-  "description": "Get all commits push it to clockify as daily time entries",
+  "description": "Get all commits and push it to clockify as daily time entries",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
