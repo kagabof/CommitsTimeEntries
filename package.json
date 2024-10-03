@@ -1,0 +1,19 @@
+{
+  "name": "CommitsTimeEntries",
+  "version": "1.0.0",
+  "description": "Get all commits push it to clockify as daily time entries",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/push_commits.ts"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
